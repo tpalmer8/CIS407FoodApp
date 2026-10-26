@@ -1,6 +1,20 @@
 # CIS407FoodApp
 Duo Project for CIS407, where we need to make a Food ordering app with a specification on database useage, where we can have users register, sign in, order food, and track their orders. 
 
+Online Food Ordering System
+    Objective: Build a database and interface for a restaurant’s online food ordering system.
+
+    ER Diagram: Tables for customers, orders, menu items, restaurants, and delivery personnel.
+
+    User Interface: A web-based interface where customers can browse menus, place orders, and track their orders.
+
+    Features:
+        Customers can register, log in, browse menu items, and place orders.
+
+        Admin (restaurant) panel to add/edit menu items and manage orders.
+        
+        Integration of payment options and order status tracking.
+
 # HOW TO RUN THE APP!!!!!!!!!!!!
     okay, this is incredibly important for how you need to run the app.
 
